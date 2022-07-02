@@ -2,7 +2,7 @@
 
 ME="$(basename "${BASH_ARGV0}")"
 
-ARCHIVE_DIR=/mnt/exdisk/images
+ARCHIVE_DIR=/mnt/exdisk/images/
 
 mkdir -p $ARCHIVE_DIR
 
